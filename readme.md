@@ -8,10 +8,10 @@ Spark is structured around Spark Core, the engine that drives the scheduling, op
 - [spark website](https://logz.io/blog/hadoop-vs-spark/)
 
 
-## start here
-_add paragraph/sentence here_
+## About Data Science
+Data science continues to evolve as one of the most promising and in-demand career paths for skilled professionals. Today, successful data professionals understand that they must advance past the traditional skills of analyzing large amounts of data, data mining, and programming skills. In order to uncover useful intelligence for their organizations, data scientists must master the full spectrum of the data science life cycle and possess a level of flexibility and understanding to maximize returns at each phase of the process.
 
-- [link](link.com)
+- [link](https://ischoolonline.berkeley.edu/data-science/what-is-data-science/)
 
 ## start here
 _add paragraph/sentence here_
